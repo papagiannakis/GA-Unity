@@ -12,7 +12,7 @@ a Geometric Algebra package for Unity (ENGAGE2024 paper)
 4. Open the `SampleScene.unity` from the Scenes folder to start.
 
 ## Project File Structure
-
+```
 unity-project/
 ├── ProjectSettings/
 ├── Packages/
@@ -24,6 +24,7 @@ unity-project/
 │   ├── Scenes/
 │   │   ├── SampleScene.unity
 │   ├── Materials/
+```
 
 ## Scripts Description
 
