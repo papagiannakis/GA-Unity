@@ -1,8 +1,8 @@
 # GA-Unity
 A Geometric Algebra package for Unity!
 
-The paper accompanying this package received the Best Paper & Presentation Award and the Best Application 
-Award at the [CGI 2024, ENGAGE Workshop](https://www.cgs-network.org/cgi24/). 
+The paper accompanying this package received the **Best Paper & Presentation Award** and the 
+**Best Application Award** at the [CGI 2024, ENGAGE Workshop](https://www.cgs-network.org/cgi24/). 
 You may read the preprint of the paper [here](https://arxiv.org/abs/2406.11560).
 
 ## Installation
