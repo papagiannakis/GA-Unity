@@ -1,5 +1,9 @@
 # GA-Unity
-a Geometric Algebra package for Unity (ENGAGE2024 paper)
+A Geometric Algebra package for Unity!
+
+The paper accompanying this package received the **Best Paper & Presentation Award** and the 
+**Best Application Award** at the [CGI 2024, ENGAGE Workshop](https://www.cgs-network.org/cgi24/). 
+You may read the preprint of the paper [here](https://arxiv.org/abs/2406.11560).
 
 ## Installation
 
@@ -42,3 +46,21 @@ extensible pool of multivectors that are used throughout the interpolation
 phase. Using multivectors from the pool, and returning them back once no
 longer needed, allows avoiding dynamic allocation of memory and increases
 performance.
+
+## Citation
+
+If you are using the GA-Unity, please cite:
+
+```
+@article{GAUnity, 
+ title={GA-Unity: A Production-Ready Unity Package for Seamless Integration of Geometric Algebra in Networked Collaborative Applications}, 
+ url={http://arxiv.org/abs/2406.11560}, 
+ DOI={10.48550/arXiv.2406.11560},  
+ note={arXiv:2406.11560 [cs]}, 
+ number={arXiv:2406.11560}, 
+ publisher={arXiv}, 
+ author={Kamarianakis, Manos and Lydatakis, Nick and Papagiannakis, George}, 
+ year={2024}, 
+ month=jun 
+ }
+```
